@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'POS Product List View',
+    'name': 'POS Product List',
     'description': """
         Product Show in list view in Pont of Sale without configuration 
 """,
@@ -17,6 +17,4 @@
     'images': ['static/description/list_view.jpg'],
     'qweb': ['static/xml/pos.xml'
              ],
-    'installable': True,
-    'application': True,
 }
