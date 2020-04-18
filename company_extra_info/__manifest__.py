@@ -13,6 +13,6 @@
         'views/company_info.xml',
     ],
     "license": "LGPL-3",
-    "images": ['static/description/group_by_supplier.jpg'],
+    "images": ['static/description/info.jpg'],
 }
 
