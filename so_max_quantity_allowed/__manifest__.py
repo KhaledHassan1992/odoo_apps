@@ -16,5 +16,5 @@
         # 'security/ir.model.access.csv',
         'views/views.xml',
     ],
-    'images': ['static/description/*.jpg', ],
+    'images': ['static/description/3.jpg','static/description/4.jpg ],
 }
