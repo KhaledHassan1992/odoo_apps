@@ -1,4 +1,4 @@
-odoo.define('pos_product_list_view.screens', function (require) {
+odoo.define('pos_product_list.screens', function (require) {
 "use strict";
 
 var module = require('point_of_sale.models');
