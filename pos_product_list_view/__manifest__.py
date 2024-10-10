@@ -7,9 +7,10 @@
     'version': '12.0',
     'author': "Khaled Hassan",
     'license': 'LGPL-3',
+    'price': 3,
+    'currency': 'EUR',
     'summary': """show product in list view in point of sale module""",
     'category': 'Point of Sale',
-    'website': 'https://www.linkedin.com/in/khaled-hassan-222600173/',
     'depends': ['point_of_sale'],
     'data': [   
                 'views/point_of_sale.xml',
